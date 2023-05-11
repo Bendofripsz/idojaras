@@ -93,3 +93,6 @@ ul{
 	width: 5%;
 	float: right;
 }
+input:active{
+	background-color: #808183;
+}
