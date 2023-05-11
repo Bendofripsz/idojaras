@@ -54,3 +54,11 @@ input
 	font-size:medium;
 	margin-top:2%;
 }
+h1{
+text-transform: capitalize;
+color: #243f84;
+}
+h2{
+	text-transform: capitalize;
+	color: #243f84;
+	}
