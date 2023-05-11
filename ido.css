@@ -85,3 +85,7 @@ img{
 	font-weight: bold;	
 	text-decoration: none;
 }
+ul{
+	list-style-image: url(nap.png);
+	margin-left: 10%;
+}
