@@ -64,5 +64,17 @@ h2{
 	}
 table{
 	width: 80%;
-	max-width: 3px;
+	border: 3px;
+	
+}
+img{
+
+	width: 80%;
+}
+.hover:hover + .hide{
+	display: block;
+	color: black;
+}
+.hide{
+	display: none;
 }
